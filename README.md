@@ -36,8 +36,8 @@
 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Counting%20Valleys/Solution.java)|
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Electronics%20Shop/Solution.java)|
 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Cats%20and%20a%20Mouse/Solution.java)|
-| [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Cats%20and%20a%20Mouse/Solution.java)|
-| [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Cats%20and%20a%20Mouse/Solution.java)|
-| [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming)| [Solution2.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Cats%20and%20a%20Mouse/Solution.java)|
-| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Cats%20and%20a%20Mouse/Solution.java)|
-| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| [Solution2.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Cats%20and%20a%20Mouse/Solution.java)|
+| [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/The%20Hurdle%20Race/Solution.java)|
+| [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Forming%20a%20Magic%20Square/Solution.java)|
+| [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming)| [Solution2.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Forming%20a%20Magic%20Square/Solution2.java)|
+| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Picking%20Numbers/Solution.java)|
+| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| [Solution2.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Picking%20Numbers/Solution2.java)|
