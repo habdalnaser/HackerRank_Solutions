@@ -41,9 +41,9 @@
 | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming)| [Solution2.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Forming%20a%20Magic%20Square/Solution2.java)|
 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Picking%20Numbers/Solution.java)|
 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| [Solution2.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Picking%20Numbers/Solution2.java)|
-| [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| [Solution2.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Picking%20Numbers/Solution2.java)|
-| [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)| [Solution2.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Picking%20Numbers/Solution2.java)|
-| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)| [Solution2.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Picking%20Numbers/Solution2.java)|
-| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)| [Solution2.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Picking%20Numbers/Solution2.java)|
-| [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)| [Solution2.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Picking%20Numbers/Solution2.java)|
-| [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)| [Solution2.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Picking%20Numbers/Solution2.java)|
+| [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Climbing%20the%20Leaderboard/Solution.java)|
+| [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Designer%20PDF%20Viewer/Solution.java)|
+| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Utopian%20Tree/Solution.java)|
+| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Angry%20Professor/Solution.java)|
+| [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Beautiful%20Days%20at%20the%20Movies/Solution.java)|
+| [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Viral%20Advertising/Solution.java)|
