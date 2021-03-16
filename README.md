@@ -47,3 +47,10 @@
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Angry%20Professor/Solution.java)|
 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Beautiful%20Days%20at%20the%20Movies/Solution.java)|
 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Viral%20Advertising/Solution.java)|
+| [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Viral%20Advertising/Solution.java)|
+| [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Viral%20Advertising/Solution.java)|
+| [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Viral%20Advertising/Solution.java)|
+| [Jumping on the Clouds Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Viral%20Advertising/Solution.java)|
+| [Find Digits](https://www.hackerrank.com/challenges/find-digits)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Viral%20Advertising/Solution.java)|
+| [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Viral%20Advertising/Solution.java)|
+| [Append and Delete]https://www.hackerrank.com/challenges/append-and-delete)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Viral%20Advertising/Solution.java)|
