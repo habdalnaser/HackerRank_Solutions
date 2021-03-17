@@ -54,3 +54,6 @@
 | [Find Digits](https://www.hackerrank.com/challenges/find-digits)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Find%20Digits/Solution.java)|
 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Extra%20Long%20Factorials/Solution.java)|
 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Append%20and%20Delete/Solution.java)|
+| [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Append%20and%20Delete/Solution.java)|
+| [Library Fine](https://www.hackerrank.com/challenges/library-fine)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Append%20and%20Delete/Solution.java)|
+| [Cut the sticks](https://www.hackerrank.com/challenges/library-fine)| [Solution.java](https://github.com/habdalnaser/HackerRank_Solutions/blob/main/Java/Append%20and%20Delete/Solution.java)|
